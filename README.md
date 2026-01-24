@@ -1,12 +1,12 @@
 #### real-estate-portfolio-analysis
 
-##TL;DR
+## TL;DR
 End-to-end analysis of a real residential real estate portfolio, originally tracked and explored in Excel, then validated with SQL and fully modeled in Power BI.
 The project focuses on understanding long-term performance, occupancy dynamics, tenant behavior, cost and tax structure, and the impact of COVID, using descriptive and exposure-aware metrics rather than causal claims.
 Project Scope
 
 
-###Overview
+### Overview
 
 This project is an end-to-end data analysis of a multi-unit residential real estate portfolio, developed to analyze long-term performance, operational behavior, and risk indicators using Excel, SQL, and Power BI.
 
@@ -34,7 +34,7 @@ Expense and taxation structure
 
 The project reflects a real-world business scenario, where not all variables are fully controllable and outcomes are influenced by external constraints (e.g. regulation, taxation, market conditions).
 
-###Tasks & Analytical Structure
+### Tasks & Analytical Structure
 
 The dashboard is structured around a set of analytical tasks:
 
@@ -59,7 +59,7 @@ Comparison of revenues, occupancy, and taxation during COVID years (2020–2021)
 
 Additional exploratory pages were included to investigate tenant segmentation and risk-related indicators (early terminations, payment delays).
 
-###Methodology
+### Methodology
 
 Data was initially compiled and explored in Excel
 
@@ -73,7 +73,7 @@ Trends and relationships are evaluated visually and descriptively
 
 No causal claims are made unless explicitly supported by the data
 
-###Tools & Technologies
+### Tools & Technologies
 
 Excel – initial data collection and exploratory analysis
 
@@ -81,7 +81,7 @@ SQL – data validation, aggregation, and consistency checks
 
 Power BI – data modeling, DAX measures, and dashboard development
 
-###Current Status
+###C urrent Status
 
 ✅ Dashboard completed
 
@@ -89,7 +89,7 @@ Power BI – data modeling, DAX measures, and dashboard development
 
 The written report will expand on:
 
-###Metric definitions
+### Metric definitions
 
 Normalization choices
 
@@ -99,7 +99,7 @@ Interpretation framework
 
 Key takeaways without overclaiming causality
 
-##Notes
+## Notes
 
 This project was built both as:
 
