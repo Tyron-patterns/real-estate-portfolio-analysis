@@ -33,23 +33,23 @@ The project reflects a **real-world business scenario**, where not all variables
 
 The dashboard is structured around a set of analytical tasks:
 
-1. Executive Overview
+1. **Executive Overview**  
 High-level summary of portfolio performance (revenues, costs, profit, margins, occupancy).
-2. Revenues & Profit Growth analysis
+2. **Revenues & Profit Growth analysis**  
 Overview of revenue and profit evolution using multiple growth indicators to reflect non-linear and uneven performance over time.
-3. Occupation vs Profitability by City & Unit
+3. **Occupation vs Profitability by City & Unit**  
 Assessment of how occupancy levels relate to profit distribution across units, including occupancy-adjusted profit.
-4. Tenancy Behavior Analysis
+4. **Tenancy Behavior Analysis**  
 Exploration of average tenancy duration, tenant turnover, and their relationship with profit and costs.
-5. Expenses, Taxation & Cost Structure
+5. **Expenses, Taxation & Cost Structure**  
 Analysis of expenses and taxes by unit and over time, acknowledging external (non-controllable) drivers.
-6. Early Termination & Payment Issues Analysis
+6. **Early Termination & Payment Issues Analysis** 
 Descriptive assessment of contract stability and payment irregularities across units and time using exposure-aware metrics.
-7. Tenant Segmentation – Profession
+7. **Tenant Segmentation – Profession**  
 Analysis of how tenant profession relates to occupancy, revenue contribution, and observed operational risk across units.
-8. Tenant Segmentation – Age & Household
+8. **Tenant Segmentation – Age & Household**  
 Descriptive segmentation of tenants by age group and household type to examine differences in occupancy patterns, revenue contribution, and stability.
-9. COVID Impact Analysis
+9. **COVID Impact Analysis**  
 Comparison of revenues, occupancy, and taxation during COVID years (2020–2021) relative to a 2019 baseline.
 
 Additional exploratory pages were included to investigate tenant segmentation and risk-related indicators (early terminations, payment delays).
