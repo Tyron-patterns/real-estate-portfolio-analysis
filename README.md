@@ -8,7 +8,7 @@ Project Scope
 
 ### Overview
 
-This project is an end-to-end data analysis of a multi-unit residential real estate portfolio, developed to analyze long-term performance, operational behavior, and risk indicators using Excel, SQL, and Power BI.
+This project is an **end-to-end data analysis of a multi-unit residential real estate portfolio**, developed to analyze long-term performance, operational behavior, and risk indicators using Excel, SQL, and Power BI.
 
 The dataset was initially collected and maintained in Excel, where early exploratory analysis was performed.
 As the portfolio and analytical needs grew, the data was progressively validated and analyzed using SQL, and finally formalized, integrated, and modeled in Power BI to create a structured, scalable analytical dashboard.
@@ -19,20 +19,15 @@ it focuses on understanding how key metrics evolved over time and whether observ
 A written analytical report is currently being built to formally document assumptions, methodology, limitations, and insights derived from the dashboard.
 The analysis covers multiple dimensions of portfolio performance over a long time horizon, including:
 
-Revenue, costs, profit, and margins
+- Revenue, costs, profit, and margins
+- Occupancy and vacancy dynamics
+- Growth indicators (YoY, CAGR, weighted rates)
+- Tenant behavior (tenancy duration, turnover, early terminations)
+- Tenant segmentation (profession, age group, household type)
+- Expense and taxation structure
+- Pre-COVID vs during-COVID performance comparison
 
-Occupancy and vacancy dynamics
-
-Growth indicators (YoY, CAGR, weighted rates)
-
-Tenant behavior (tenancy duration, turnover, early terminations)
-
-Tenant segmentation (profession, age group, household type)
-
-Expense and taxation structure
-9.Pre-COVID vs during-COVID performance comparison
-
-The project reflects a real-world business scenario, where not all variables are fully controllable and outcomes are influenced by external constraints (e.g. regulation, taxation, market conditions).
+The project reflects a **real-world business scenario**, where not all variables are fully controllable and outcomes are influenced by external constraints (e.g. regulation, taxation, market conditions).
 
 ### Tasks & Analytical Structure
 
@@ -61,48 +56,38 @@ Additional exploratory pages were included to investigate tenant segmentation an
 
 ### Methodology
 
-Data was initially compiled and explored in Excel
-
-Data quality checks, aggregations, and validation were performed using SQL
-
-Final data modeling, metric definitions, and visualization were implemented in Power BI
-
-Measures were designed to be context-aware and, where appropriate, normalized to avoid misleading comparisons
-
-Trends and relationships are evaluated visually and descriptively
+- Data was initially compiled and explored in Excel
+- Data quality checks, aggregations, and validation were performed using SQL
+- Final data modeling, metric definitions, and visualization were implemented in Power BI
+- Measures were designed to be context-aware and, where appropriate, normalized to avoid misleading comparisons
+- Trends and relationships are evaluated visually and descriptively
 
 No causal claims are made unless explicitly supported by the data
 
 ### Tools & Technologies
 
-Excel – initial data collection and exploratory analysis
+- Excel – initial data collection and exploratory analysis
+- SQL – data validation, aggregation, and consistency checks
+- Power BI – data modeling, DAX measures, and dashboard development
 
-SQL – data validation, aggregation, and consistency checks
+### Current Status
 
-Power BI – data modeling, DAX measures, and dashboard development
+- ✅ Dashboard completed
 
-###C urrent Status
-
-✅ Dashboard completed
-
-🚧 Written analytical report in progress
+- 🚧 Written analytical report in progress
 
 The written report will expand on:
 
 ### Metric definitions
 
-Normalization choices
-
-Analytical limitations
-
-Interpretation framework
-
-Key takeaways without overclaiming causality
+- Normalization choices
+- Analytical limitations
+- Interpretation framework
+- Key takeaways without overclaiming causality
 
 ## Notes
 
 This project was built both as:
 
-A professional portfolio project for data/BI roles
-
-A realistic analytical case study, reflecting the ambiguity and constraints of real operational data
+- A professional portfolio project for data/BI roles
+- A realistic analytical case study, reflecting the ambiguity and constraints of real operational data
