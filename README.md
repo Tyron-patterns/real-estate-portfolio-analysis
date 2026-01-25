@@ -1,4 +1,4 @@
-# 🏢 Real-estate-portfolio-analysis
+# 🌇 Real-estate-portfolio-analysis
 
 ## TL;DR
 End-to-end analysis of a real residential real estate portfolio, originally tracked and explored in Excel, then validated with SQL and fully modeled in Power BI.
