@@ -1,4 +1,32 @@
-# 🌇 Real-estate-portfolio-analysis
+
+# 📈 Executive Summary 
+
+## Scope of the analysis
+The report is meant to analyze the performances of the portfolio (growth, occupancy, tenant segmentation, risk analysis, external shock resistance). The time window of the each category will change according to consideration related to the 
+
+## Performance Summary
+- A preliminary analysis on Revenues and profit portfolio shows and important growth in terms of these two indicators. This is not only a result of  rented over the years.  
+- Simultenously, Costs show a mild but steady decrease over time, especially in early years where, which helped profit grow
+- Occupancy normalized to the number of unit rented also risen (beyond the obivous incremeant in terms of more units rented)
+
+## Revenues and Profit Drivers
+Apparently there's no one single driver for profit, instead it's a combination of all the following effects that infleunce incomes:
+- **Occupancy - Vacancy (Occupancy-Adjusted Profit)**:
+ - **City level**: lower occuapancy volumes comes along with lower profit, with Fiumicino showing worst performances than Rome, same goes for vacancy. 
+ - **Unit level**: here too, higher occupancy voleumes correspond to higher profit, with FCO Su leading the trend as the highest occupancy-profit unit, while units  
+                   with comparable occupancy volumes are in the same range of profit, regardless of rental prices  
+- **Turnovers*: 
+ - ** City level**: lower number of turnovers for city (with Rome presenting a much bigger number than Fiumicino) tranlsate to lower profit.
+ - ** Unit level**: what just said for the city doesn't apply here, where more stable unit either come with higher (FCO Su) or similar profit regardless of 
+                    stability 
+This changes as we analyze the profit at a **unit level**, where unit associated with **higher occupancy volumes** are also **more profitable**.
+This might be explained by looking at taxation burden which is higher (both at a city level and at unit level) for Fiumicino Units who are also affected by additional
+taxes (IMU). 
+- A higher **Turnovers Volume** seems to not affect profit at a city level, while at a unit level longer and more stable tenancy align with **higer profits**
+
+- Expenses are not an indicator for profit at a city level as they are practically the same in both cities. at a uni
+
+### NOTE: normalization of rental price for number of unit in a city is not needed as the total profit for all units in different cities is comparable # 🌇 Real-estate-portfolio-analysis
 
 ## TL;DR
 End-to-end analysis of a real residential real estate portfolio, originally tracked and explored in Excel, then validated with SQL and fully modeled in Power BI.
