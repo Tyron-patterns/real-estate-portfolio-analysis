@@ -14,10 +14,10 @@ Matrix-level comparisons (dashboard 10. Metrics Comparison) show that higher occ
 - **Vacancy directly erodes profitability**, particularly at city level.  
 Units and locations with higher vacant months contribute disproportionately less to total profit, confirming utilization as a critical performance lever.
 
-**Tenant turnover has a differentiated impact by scale**.  
+- **Tenant turnover has a differentiated impact by scale**.  
 At city level, higher turnover does not translate into improved profitability, indicating that volume of tenancy changes alone is not a positive driver. At unit level, however, more stable units are associated with either higher or comparable profit outcomes, suggesting that tenancy stability matters primarily at the asset level rather than in aggregate.
 
-**Cost and tax structures act as constraining factors rather than primary drivers**.  
+- **Cost and tax structures act as constraining factors rather than primary drivers**.  
 Matrix comparisons indicate similar expense costs across cities, while differences in tax burden materially affect net profitability, particularly for Fiumicino units, as these have an additional taxation burden represente by IMU for second houses. These structural effects help explain profit discrepancies once occupancy is normalized.
 
 ## 2. Which units / locations are reliable vs volatile profit generators?
