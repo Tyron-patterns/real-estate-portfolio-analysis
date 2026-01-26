@@ -5,28 +5,44 @@
 The report is meant to analyze the performances of the portfolio (growth, occupancy, tenant segmentation, risk analysis, external shock resistance). The time window of the each category will change according to consideration related to the 
 
 ## Performance Summary
-- A preliminary analysis on Revenues and profit portfolio shows and important growth in terms of these two indicators. This is not only a result of  rented over the years.  
-- Simultenously, Costs show a mild but steady decrease over time, especially in early years where, which helped profit grow
+- A preliminary analysis on Revenues and profit portfolio showed an important growth over the entire timespan of the business.
+- Simultenously, Costs showed a mild but steady decrease over time, especially if compared to early years where, which helped profit grow
 - Occupancy normalized to the number of unit rented also risen (beyond the obivous incremeant in terms of more units rented)
 
-## Revenues and Profit Drivers
-Apparently there's no one single driver for profit, instead it's a combination of all the following effects that infleunce incomes:
-- **Occupancy - Vacancy (Occupancy-Adjusted Profit)**:
- - **City level**: lower occuapancy volumes comes along with lower profit, with Fiumicino showing worst performances than Rome, same goes for vacancy. 
- - **Unit level**: here too, higher occupancy voleumes correspond to higher profit, with FCO Su leading the trend as the highest occupancy-profit unit, while units  
-                   with comparable occupancy volumes are in the same range of profit, regardless of rental prices  
-- **Turnovers*: 
- - ** City level**: lower number of turnovers for city (with Rome presenting a much bigger number than Fiumicino) tranlsate to lower profit.
- - ** Unit level**: what just said for the city doesn't apply here, where more stable unit either come with higher (FCO Su) or similar profit regardless of 
-                    stability 
-This changes as we analyze the profit at a **unit level**, where unit associated with **higher occupancy volumes** are also **more profitable**.
-This might be explained by looking at taxation burden which is higher (both at a city level and at unit level) for Fiumicino Units who are also affected by additional
-taxes (IMU). 
-- A higher **Turnovers Volume** seems to not affect profit at a city level, while at a unit level longer and more stable tenancy align with **higer profits**
+## 1. Where does profit actually come from in the portfolio?
 
-- Expenses are not an indicator for profit at a city level as they are practically the same in both cities. at a uni
+Portfolio profitability is driven by a combination of occupancy, tenancy stability, and structural constraints, rather than by a single dominant factor.  
 
-### NOTE: normalization of rental price for number of unit in a city is not needed as the total profit for all units in different cities is comparable # 🌇 Real-estate-portfolio-analysis
+**Occupancy is the strongest and most consistent driver of profit across both cities and individual units**.
+Matrix-level comparisons (10. Metrics Comparison) show that higher occupancy periods align with higher profit. At city level, Rome outperforms Fiumicino primarily due to higher utilization, while at unit level, properties with comparable occupancy volumes generate similar profit levels regardless of rental prices.
+
+**Vacancy directly erodes profitability**, particularly at city level.
+Units and locations with higher vacant months contribute disproportionately less to total profit, confirming utilization as a critical performance lever.
+
+**Tenant turnover has a differentiated impact by scale**.
+At city level, higher turnover does not translate into improved profitability, indicating that volume of tenancy changes alone is not a positive driver. At unit level, however, more stable units are associated with either higher or comparable profit outcomes, suggesting that tenancy stability matters primarily at the asset level rather than in aggregate.
+
+**Cost and tax structures act as constraining factors rather than primary drivers**.
+Matrix comparisons indicate similar expense costs across cities, while differences in tax burden materially affect net profitability, particularly for Fiumicino units, as these have an additional taxation burden represente by IMU for second houses. These structural effects help explain profit discrepancies once occupancy is normalized.
+
+## 2. Which units / locations are reliable vs volatile profit generators?
+
+Despite turnovers being a possible cause for tenancy disruptions and gaps in occupancy, **average vacancy length has proven to be the most conspicuous source of volatility**, as in most cases tenant alternations were not followed by prolonged vacancies.
+
+In fact, while Rome has experienced a much higher volume of turnovers than Fiumicino, **it is a unit in the latter location (FCO Giu) that exhibits the most unstable reliability pattern**. This is evidenced by an unusually long average vacancy duration when compared to all other units in the portfolio. Moreover, this unit has also shown **a concerning record of payment issues**, including both delayed and fully missed payments.
+
+On the other hand, **FCO Su appears to be the most stable unit across the entire portfolio**, with only one tenant (no turnovers and no vacancy) throughout the observed period. This classification is not practically affected by the presence of a limited number of payment issues, as these occurrences are not structural, resolved in later payments and significantly fewer than those observed for FCO Giu; as such, they can be considered as effectively absorbed by the long tenancy duration.
+
+As mentioned, **Rome units experienced a higher turnover volume, yet vacancy durations remained short** (both in absolute terms and relative to a full year and to FCO Su) and more homogeneous across units despite frequent tenant changes. No payment issues were recorded, **making these units—second only to FCO Su—a relatively stable source of income**.
+
+### Note:
+A more in-depth analysis of missing and delayed payments and their associated risks was conducted using tenant segmentation.
+
+## 3. What structurally limits profitability (costs, taxes, vacancy)?  
+
+As mentioned in the previous two points, vacancy is one of the most prominent factors
+as it might seems obious, revenues can also impact profit, as klower revenues, a parita' di costi , can deflate profits. this is the case of small increments of rental prices whcih contributed to profit growth overtime
+# 🌇 Real-estate-portfolio-analysis
 
 ## TL;DR
 End-to-end analysis of a real residential real estate portfolio, originally tracked and explored in Excel, then validated with SQL and fully modeled in Power BI.
