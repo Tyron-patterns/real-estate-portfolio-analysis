@@ -4,25 +4,20 @@
 ## Scope of the analysis
 The report is meant to analyze the performances of the portfolio (growth, occupancy, tenant segmentation, risk analysis, external shock resistance). The time window of the each category will change according to consideration related to the 
 
-## Performance Summary
-- A preliminary analysis on Revenues and profit portfolio showed an important growth over the entire timespan of the business.
-- Simultenously, Costs showed a mild but steady decrease over time, especially if compared to early years where, which helped profit grow
-- Occupancy normalized to the number of unit rented also risen (beyond the obivous incremeant in terms of more units rented)
-
 ## 1. Where does profit actually come from in the portfolio?
 
 Portfolio profitability is driven by a combination of occupancy, tenancy stability, and structural constraints, rather than by a single dominant factor.  
 
-**Occupancy is the strongest and most consistent driver of profit across both cities and individual units**.
-Matrix-level comparisons (10. Metrics Comparison) show that higher occupancy periods align with higher profit. At city level, Rome outperforms Fiumicino primarily due to higher utilization, while at unit level, properties with comparable occupancy volumes generate similar profit levels regardless of rental prices.
+- **Occupancy is the strongest and most consistent driver of profit across both cities and individual units**.  
+Matrix-level comparisons (dashboard 10. Metrics Comparison) show that higher occupancy periods align with higher profit. At city level, Rome outperforms Fiumicino primarily due to higher utilization, while at unit level, properties with comparable occupancy volumes generate similar profit regardless of rental prices.
 
-**Vacancy directly erodes profitability**, particularly at city level.
+- **Vacancy directly erodes profitability**, particularly at city level.  
 Units and locations with higher vacant months contribute disproportionately less to total profit, confirming utilization as a critical performance lever.
 
-**Tenant turnover has a differentiated impact by scale**.
+**Tenant turnover has a differentiated impact by scale**.  
 At city level, higher turnover does not translate into improved profitability, indicating that volume of tenancy changes alone is not a positive driver. At unit level, however, more stable units are associated with either higher or comparable profit outcomes, suggesting that tenancy stability matters primarily at the asset level rather than in aggregate.
 
-**Cost and tax structures act as constraining factors rather than primary drivers**.
+**Cost and tax structures act as constraining factors rather than primary drivers**.  
 Matrix comparisons indicate similar expense costs across cities, while differences in tax burden materially affect net profitability, particularly for Fiumicino units, as these have an additional taxation burden represente by IMU for second houses. These structural effects help explain profit discrepancies once occupancy is normalized.
 
 ## 2. Which units / locations are reliable vs volatile profit generators?
@@ -40,8 +35,15 @@ A more in-depth analysis of missing and delayed payments and their associated ri
 
 ## 3. What structurally limits profitability (costs, taxes, vacancy)?  
 
-As mentioned in the previous two points, vacancy is one of the most prominent factors
-as it might seems obious, revenues can also impact profit, as klower revenues, a parita' di costi , can deflate profits. this is the case of small increments of rental prices whcih contributed to profit growth overtime
+- Vacancy is one of the most prominent structural factors affecting profitability, as the equation vacancy = no profits remains true and represents a major constraint on profit generation.
+
+- Revenues, in the form of rental prices, also structurally impact profitability, as lower revenues at cost parity directly compress margins. This effect is particularly evident under Canone Concordato contracts, where prices are set by regulation based on property characteristics and amenities. In this context, small improvements, adjustments, and targeted investments contributed to part of the profit growth observed over time by improving property characteristics and, consequently, allowing for modest increases in the maximum rental prices authorized by the municipality.
+
+- Taxes represent another important structural limitation to profitability. Although largely externally determined and variable over time, taxation acts as an unavoidable cap on the portion of revenues that can be converted into profit. The data show that informed choices regarding taxation regimes can improve profitability, as observed after 2014. Conversely, higher tax burdens—such as the additional IMU tax affecting both Fiumicino apartments—help explain the margin differences observed between locations with otherwise comparable rental prices, indicating that taxation is the primary driver behind these discrepancies.
+It is also worth noting that taxation is proportional to occupancy, further reinforcing its role as an unavoidable constraint on profitability
+
+- Expenses, such as maintenance and repair costs, are not structural but largely stochastic (no periodic manteinance). Investment peaks observed at the start of the business confirm that expenses are, to a certain extent, controllable and containable, although no real estate is fully immune to unexpected incidents
+
 # 🌇 Real-estate-portfolio-analysis
 
 ## TL;DR
