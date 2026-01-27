@@ -24,25 +24,25 @@ Matrix comparisons indicate similar expense costs across cities, while differenc
 
 Despite turnovers being a possible cause for tenancy disruptions and gaps in occupancy, **average vacancy length has proven to be the most conspicuous source of volatility**, as in most cases tenant alternations were not followed by prolonged vacancies.
 
-In fact, while Rome has experienced a much higher volume of turnovers than Fiumicino, **it is a unit in the latter location (FCO Giu) that exhibits the most unstable reliability pattern**. This is evidenced by an unusually long average vacancy duration when compared to all other units in the portfolio. Moreover, this unit has also shown **a concerning record of payment issues**, including both delayed and fully missed payments.
+- Despite Fiumicino showing a low turnover volume, **the FCO Giu unit exhibits the most unstable reliability pattern**. This is evidenced by an unusually long average vacancy duration when compared to all other units in the portfolio. Moreover, this unit has also shown **a concerning record of payment issues**, including both delayed and fully missed payments.
 
-On the other hand, **FCO Su appears to be the most stable unit across the entire portfolio**, with only one tenant (no turnovers and no vacancy) throughout the observed period. This classification is not practically affected by the presence of a limited number of payment issues, as these occurrences are not structural, resolved in later payments and significantly fewer than those observed for FCO Giu; as such, they can be considered as effectively absorbed by the long tenancy duration.
+- On the other hand, **FCO Su appears to be the most stable unit across the entire portfolio**, with only one tenant (no turnovers and no vacancy) throughout the observed period. This classification is not practically affected by the presence of a limited number of payment issues, as these occurrences are not structural, resolved in later payments and significantly fewer than those observed for FCO Giu (they can be considered absorbed by the long tenancy duration).
 
-As mentioned, **Rome units experienced a higher turnover volume, yet vacancy durations remained short** (both in absolute terms and relative to a full year and to FCO Su) and more homogeneous across units despite frequent tenant changes. No payment issues were recorded, **making these units—second only to FCO Su—a relatively stable source of income**.
+- **Rome units experienced a higher turnover volume, yet vacancy durations remained short** (both in absolute terms and relative to FCO Su) and more homogeneous across units despite frequent tenant changes. No payment issues were recorded, **making these units—second only to FCO Su in reliability**
 
 ### Note:
 A more in-depth analysis of missing and delayed payments and their associated risks was conducted using tenant segmentation.
 
 ## 3. What structurally limits profitability (costs, taxes, vacancy)?  
 
-- Vacancy is one of the most prominent structural factors affecting profitability, as the equation vacancy = no profits remains true and represents a major constraint on profit generation.
+- **Vacancy is one of the most prominent structural factors affecting profitability**, as the equation **vacancy = no profits** remains true and represents a major constraint on profit generation.
 
-- Revenues, in the form of rental prices, also structurally impact profitability, as lower revenues at cost parity directly compress margins. This effect is particularly evident under Canone Concordato contracts, where prices are set by regulation based on property characteristics and amenities. In this context, small improvements, adjustments, and targeted investments contributed to part of the profit growth observed over time by improving property characteristics and, consequently, allowing for modest increases in the maximum rental prices authorized by the municipality.
+- **Revenues, in the form of rental prices, can partially be considered as a structural impact on profitability**. This effect is particularly evident under Canone Concordato contracts, where prices are set by regulation based on property characteristics and amenities. In this context, small improvements and targeted investments contributed to part of the profit growth observed over time by allowing for modest increases in the maximum applicable rental prices.
 
-- Taxes represent another important structural limitation to profitability. Although largely externally determined and variable over time, taxation acts as an unavoidable cap on the portion of revenues that can be converted into profit. The data show that informed choices regarding taxation regimes can improve profitability, as observed after 2014. Conversely, higher tax burdens—such as the additional IMU tax affecting both Fiumicino apartments—help explain the margin differences observed between locations with otherwise comparable rental prices, indicating that taxation is the primary driver behind these discrepancies.
-It is also worth noting that taxation is proportional to occupancy, further reinforcing its role as an unavoidable constraint on profitability
+- **Taxes, although largely externally determined, represent another important and unavoidable structural cap on profitability**. The data show that informed choices regarding taxation regimes can improve profitability, as observed after 2014. Conversely, higher tax burdens (Fiumicino units) help explain the margin differences observed between locations with comparable rental prices.
+It is also worth noting that taxation is proportional to occupancy, reinforcing its role as an unavoidable constraint on profitability
 
-- Expenses, such as maintenance and repair costs, are not structural but largely stochastic (no periodic manteinance). Investment peaks observed at the start of the business confirm that expenses are, to a certain extent, controllable and containable, although no real estate is fully immune to unexpected incidents
+- **Expenses, such as maintenance and repair costs, are not structural but largely stochastic** (no periodic manteinance). Investment peaks observed at the start of the business confirm that expenses are, to a certain extent (unexpected accidents), controllable and containable.
 
 # 🌇 Real-estate-portfolio-analysis
 
