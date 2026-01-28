@@ -31,7 +31,7 @@ With only one tenant (no turnovers and no vacancy) throughout the observed perio
 A more in-depth analysis of missing and delayed payments and their associated risks was conducted using tenant segmentation.
 
 
-## 3. What structurally limits profitability (costs, taxes, vacancy)?  
+## 3. What structurally limits profitability?  
 
 - **Vacancy is one of the most prominent structural factors affecting profitability**  
 as the equation **vacancy = no profits** remains true and represents a major constraint on profit generation.
@@ -44,7 +44,7 @@ The data show that informed choices regarding taxation regimes can improve profi
 It is also worth noting that taxation is proportional to occupancy, reinforcing its role as an unavoidable constraint on profitability
 
 
-## 4. What operational risks exist (turnover, tenant profiles, maintenance)?
+## 4. What operational risks exist?
 
 - **Expenses, such as maintenance and repair costs, are not structural but largely stochastic** (no periodic manteinance)  
 - Investment peaks observed at the start of the business confirm that expenses are, to a certain extent (unexpected accidents), controllable and containable, even if no property is fully immune from incidents
