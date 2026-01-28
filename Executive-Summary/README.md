@@ -1,5 +1,7 @@
 # 📈 Executive Summary 
 
+**The analaysis was conducted both at city/location and unit level to differentiate effects between said categories.**
+
 ## 1. Where does profit actually come from in the portfolio?
 
 **Portfolio profitability is driven by a combination of occupancy, tenancy stability, and structural constraints, rather than by a single dominant factor.**    
