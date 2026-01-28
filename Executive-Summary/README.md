@@ -18,10 +18,10 @@ Matrix comparisons indicate similar expense costs across cities, while differenc
 
 ## 2. Which units / locations are reliable vs volatile profit generators?
 
-**Average vacancy length has proven to be the most conspicuous source of volatility. In fact, while turnovers present a possible cause for gaps in occupancy, in most cases tenant alternations were not followed by prolonged vacancies.**
+**Average vacancy length has proven to be the most conspicuous source of volatility. In fact, while turnovers pose a possible cause for gaps in occupancy, in most cases tenant alternations were not followed by prolonged vacancies.**
 
-- **FCO Giu exhibits the most unstable reliability pattern.**  
-Despite Fiumicino location showing a low turnover volume. This is evidenced by an unusually long average vacancy duration when compared to all other units in the portfolio. Moreover, this unit has also shown **a concerning record of payment issues**, including both delayed and fully missed payments.
+- **FCO Giu exhibits the most unstable reliability pattern**  
+despite Fiumicino location showing a low turnover volume. This is evidenced by an unusually long average vacancy duration when compared to all other units in the portfolio. Moreover, this unit has also shown **a concerning record of payment issues**, including both delayed and fully missed payments.
 
 - **FCO Su appears to be the most stable unit across the entire portfolio**  
 With only one tenant (no turnovers and no vacancy) throughout the observed period. This classification is not practically affected by the presence of a limited number of payment issues, as these occurrences are not structural, resolved in later payments and significantly fewer than those observed for FCO Giu (they can be considered absorbed by the long tenancy duration).
