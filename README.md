@@ -42,7 +42,34 @@ A more in-depth analysis of missing and delayed payments and their associated ri
 - **Taxes, although largely externally determined, represent another important and unavoidable structural cap on profitability**. The data show that informed choices regarding taxation regimes can improve profitability, as observed after 2014. Conversely, higher tax burdens (Fiumicino units) help explain the margin differences observed between locations with comparable rental prices.
 It is also worth noting that taxation is proportional to occupancy, reinforcing its role as an unavoidable constraint on profitability
 
-- **Expenses, such as maintenance and repair costs, are not structural but largely stochastic** (no periodic manteinance). Investment peaks observed at the start of the business confirm that expenses are, to a certain extent (unexpected accidents), controllable and containable.
+
+## 4. What operational risks exist (turnover, tenant profiles, maintenance)?
+- **Expenses, such as maintenance and repair costs, are not structural but largely stochastic** (no periodic manteinance). Investment peaks observed at the start of the business confirm that expenses are, to a certain extent (unexpected accidents), controllable and containable, even if no property is fully immune from incidents
+
+- **Tenants profiles are for sure an important operational risks** as shown by both FCO Su and FCO Giu, were there have been many instances of payments issues. Proper tenant profiling is therefore vital and, as data suggests, certain categories, which are associated primarily with certain Fiumicino's units require some deeper attention. In the past, for example, knowing were to focus attentions has allowed to implement strategies to protect the most vulenerable units by contracting insurance against missed payments, structural damage wjile at the same time providing legal assistance.
+In any case, such measures should not be used blindly, as they suppose a cost. It's therefore necessary to understand which units are more at risk vs the ones that show more stability, so not to encour in additional and evitable costs
+
+- **Turnovers are intrinsically risky as they might come with vacancy periods**, together with the fact new tenants per se require research which is expensive both in money and time and can bring payment issues. 
+
+
+
+## 5. How resilient is the portfolio to external shocks (COVID)?
+- **Analysis of the COVID period, segmented into wave 1 (2020) and wave 2 (2021) for comparison purposes, shows that flexibility in rental prices was associated with a moderate reduction in occupancy**, which in turn helped preserve profit stability and tenant satisfaction throughout wave 1.
+As a specific example, following a careful assessment of tenant profiles, temporary rental reductions were offered during wave 1 to more sensitive segments. This approach helped maintain occupancy—at least for these tenants—at levels comparable to pre-COVID years (2019), while losses remained moderate relative to the same year.
+
+- **Wave 2 was characterized by longer vacancy durations**, as companies and universities increasingly adopted remote solutions, leading to a structural decline in demand for tenancies. This shift had a negative impact on profitability.
+
+- Overall, the data indicate that **the business absorbed the shock of reduced demand, including during wave 2**, suggesting that longer tenancies and tenant screening contributed to a more robust and resilient income base.
+
+## 6. What trade-offs cannot be optimized simultaneously?
+
+- **Rental prices and taxes are structurally proportional, as higher rents translate into a higher taxable base**. As a result, there is no realistic scenario where rental prices increase while taxes decrease (excluding very specific or temporary situations). This creates a hard ceiling on how much additional revenue can be converted into profit, making it impossible to optimize both dimensions independently.
+
+- **Investments made at the start of the business (renovations, improvements, adjustments) are often necessary to achieve higher occupancy and better tenant retention over time**, even if they tend to reduce short-term profitability. Lower initial expenses may preserve early profits, but typically at the cost of weaker occupancy performance and lower long-term stability.
+
+- **During COVID period, trade-offs emerged between maintaining occupancy and preserving short-term profit**. Rental price reductions helped keep occupancy levels relatively high, but necessarily compressed margins. Conversely, prioritizing profit would have implied accepting higher vacancy and turnover. Both objectives could not be fully optimized at the same time under external demand shocks.
+
+
 
 # 🌇 Real-estate-portfolio-analysis
 
