@@ -8,11 +8,8 @@ The report is meant to analyze the performances of the portfolio (growth, occupa
 
 Portfolio profitability is driven by a combination of occupancy, tenancy stability, and structural constraints, rather than by a single dominant factor.  
 
-- **Occupancy is the strongest and most consistent driver of profit across both cities and individual units**.  
+- **Occupancy/Vacancy are the strongest and most consistent drivers of profit across both cities and individual units**.  
 Matrix-level comparisons (dashboard 10. Metrics Comparison) show that higher occupancy periods align with higher profit. At city level, Rome outperforms Fiumicino primarily due to higher utilization, while at unit level, properties with comparable occupancy volumes generate similar profit regardless of rental prices.
-
-- **Vacancy directly erodes profitability**, particularly at city level.  
-Units and locations with higher vacant months contribute disproportionately less to total profit, confirming utilization as a critical performance lever.
 
 - **Tenant turnover has a differentiated impact by scale**.  
 At city level, higher turnover does not translate into improved profitability, indicating that volume of tenancy changes alone is not a positive driver. At unit level, however, more stable units are associated with either higher or comparable profit outcomes, suggesting that tenancy stability matters primarily at the asset level rather than in aggregate.
