@@ -1,14 +1,11 @@
 # 📈 Executive Summary 
 
-## Scope of the analysis
-The report is meant to analyze the performances of the portfolio (growth, occupancy, tenant segmentation, risk analysis, external shock resistance). The time window of the each category will change according to consideration related to the 
-
 ## 1. Where does profit actually come from in the portfolio?
 
 Portfolio profitability is driven by a combination of occupancy, tenancy stability, and structural constraints, rather than by a single dominant factor.  
 
 - **Occupancy/Vacancy are the strongest and most consistent drivers of profit across both cities and individual units**.  
-Matrix-level comparisons (dashboard 10. Metrics Comparison) show that higher occupancy periods align with higher profit. At city level, Rome outperforms Fiumicino primarily due to higher utilization, while at unit level, properties with comparable occupancy volumes generate similar profit regardless of rental prices.
+Matrix-level comparisons show that higher occupancy periods align with higher profit. At city level, Rome outperforms Fiumicino primarily due to higher utilization, while at unit level, properties with comparable occupancy volumes generate similar profit regardless of rental prices.
 
 - **Tenant turnover has a differentiated impact by scale**.  
 At city level, higher turnover does not translate into improved profitability, indicating that volume of tenancy changes alone is not a positive driver. At unit level, however, more stable units are associated with either higher or comparable profit outcomes, suggesting that tenancy stability matters primarily at the asset level rather than in aggregate.
@@ -18,11 +15,14 @@ Matrix comparisons indicate similar expense costs across cities, while differenc
 
 ## 2. Which units / locations are reliable vs volatile profit generators?
 
-Despite turnovers being a possible cause for tenancy disruptions and gaps in occupancy, **average vacancy length has proven to be the most conspicuous source of volatility**, as in most cases tenant alternations were not followed by prolonged vacancies.
+### Average vacancy length has proven to be the most conspicuous source of volatility
+Despite turnovers being a possible cause for tenancy disruptions and gaps in occupancy, as in most cases tenant alternations were not followed by prolonged vacancies.
 
-- Despite Fiumicino showing a low turnover volume, **the FCO Giu unit exhibits the most unstable reliability pattern**. This is evidenced by an unusually long average vacancy duration when compared to all other units in the portfolio. Moreover, this unit has also shown **a concerning record of payment issues**, including both delayed and fully missed payments.
+- ### FCO Giu exhibits the most unstable reliability pattern.
+Despite Fiumicino location showing a low turnover volume. This is evidenced by an unusually long average vacancy duration when compared to all other units in the portfolio. Moreover, this unit has also shown **a concerning record of payment issues**, including both delayed and fully missed payments.
 
-- On the other hand, **FCO Su appears to be the most stable unit across the entire portfolio**, with only one tenant (no turnovers and no vacancy) throughout the observed period. This classification is not practically affected by the presence of a limited number of payment issues, as these occurrences are not structural, resolved in later payments and significantly fewer than those observed for FCO Giu (they can be considered absorbed by the long tenancy duration).
+- ### FCO Su appears to be the most stable unit across the entire portfolio**
+With only one tenant (no turnovers and no vacancy) throughout the observed period. This classification is not practically affected by the presence of a limited number of payment issues, as these occurrences are not structural, resolved in later payments and significantly fewer than those observed for FCO Giu (they can be considered absorbed by the long tenancy duration).
 
 - **Rome units experienced a higher turnover volume, yet vacancy durations remained short** (both in absolute terms and relative to FCO Su) and more homogeneous across units despite frequent tenant changes. No payment issues were recorded, **making these units—second only to FCO Su in reliability**
 
