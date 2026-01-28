@@ -8,7 +8,7 @@
 Matrix-level comparisons show that higher occupancy periods align with higher profit. At city level, Rome outperforms Fiumicino primarily due to higher utilization, while at unit level, properties with comparable occupancy volumes generate similar profit regardless of rental prices.
 
 - **Tenant turnover has a differentiated impact by scale**.  
-At city level, higher turnover does not translate into improved profitability, indicating that volume of tenancy changes alone is not a positive driver. At unit level, however, more stable units are associated with either higher or comparable profit outcomes, suggesting that tenancy stability matters primarily at this level rather than in aggregate.
+At city level, higher turnover does not translate into improved profitability, indicating that changes in volume of tenancy alone are not a positive driver. At unit level, however, more stable units are associated with either higher or comparable profit outcomes, suggesting that tenancy stability matters primarily at this level rather than in aggregate.
 
 - **Cost and tax structures act as constraining factors rather than primary drivers**.  
 Matrix comparisons indicate similar expense costs across cities, while differences in tax burden materially affect net profitability, particularly for Fiumicino units, as these have an additional taxation burden represented by IMU for second houses. These structural effects help explain discrepancies once profits are normalized over occupancy.
