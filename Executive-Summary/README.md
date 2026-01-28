@@ -48,12 +48,12 @@ It is also worth noting that taxation is proportional to occupancy, reinforcing 
 
 ## 4. What operational risks exist?
 
-- **Expenses, such as maintenance and repair costs, are not structural but largely stochastic** (no periodic manteinance)  
-- Investment peaks observed at the start of the business confirm that expenses are, to a certain extent (unexpected accidents), controllable and containable, even if no property is fully immune from incidents
+- **Expenses, such as maintenance and repair costs, are not structural but largely stochastic** (no periodic manteinance).  
+Investment peaks observed at the start of the business confirm that expenses are, to a certain extent (unexpected accidents), controllable and containable, even if no property is fully immune from incidents
 
 - **Tenants profiles are for sure an important operational risks**  
-as shown by both FCO Su and FCO Giu, were there have been many instances of payments issues. Proper tenant profiling is therefore vital and, as data suggests, certain categories, which are associated primarily with Fiumicino's units, require some deeper attention. For example, knowing were to focus attentions has allowed to implement strategies (such as insurance against missed payments, structural damage while also providing legal assistance) to protect vulnerable units.
-In any case, said measures should not be used blindly, as they suppose a cost. It's therefore recomendable to protect only units that are more at risk, so not to encour in additional, evitable costs
+as shown by both FCO Su and FCO Giu, were there have been many instances of payments issues. Proper tenant profiling is therefore vital and, as data suggests, certain categories, which are associated primarily with Fiumicino's units, require some deeper attention. For example, increased awareness of higher-risk situation has allowed to implement targeted strategies (such as insurance against missed payments and structural damage, alongside legal assistance) to protect vulnerable units.
+In any case, said measures should not be used blindly, as they come at a cost. It's therefore recomendable to protect only units that are more at risk, so not to encour in avoidable costs
 
 - **Turnovers are intrinsically risky as they might come with vacancy periods**  
 together with the fact new tenants per se require background assesment, which is expensive both in money and time and can introduce risks of payment issues. 
@@ -64,7 +64,7 @@ together with the fact new tenants per se require background assesment, which is
 
 **Analysis on the COVID period, segmented into wave 1 (2020) and wave 2 (2021) for comparison purposes, shows that flexibility in rental prices was associated with a moderate reduction in occupancy**  
 
-- **Throughout wave 1, rental reduction measures were adopted to avoid vanacy**
+- **Throughout wave 1, rental reduction measures were adopted to avoid vanacy.**
 In this period, following a careful assessment of tenant profiles, temporary reductions were offered to more sensitive segments. This approach seems to have helped maintain occupancy, as well as tenant satifasfaction, at levels comparable to pre-COVID years (2019), while losses remained moderate relative to the same year.
 
 - **Wave 2 was characterized by longer vacancy durations**  
