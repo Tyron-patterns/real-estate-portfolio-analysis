@@ -48,10 +48,10 @@ The report is organized from high-level outcomes to constraints, operational beh
 4. **Taxation Structure (Structural Constraints)**
    - Taxes by unit and over time; structural differences across locations and regimes.
 
-5. **Occupancy/Vacancy vs Profitability**
+5. **Occupancy & Vacancy vs Profitability**
    - How utilization patterns relate to profit differences across cities and units.
 
-6. **Average Occupancy/Vacancy vs Profitability**
+6. **Average Occupancy & Vacancy vs Profitability**
    - Long-run utilization using averaged metrics to smooth short-term fluctuations.
 
 7. **Tenancy Behavior & Turnover Effects**
