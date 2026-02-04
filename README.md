@@ -50,13 +50,13 @@ Analysis of tenancy duration and tenant turnover at unit level, examining their 
 Detailed examination of expenses and taxation separately, analyzing their levels, variability, and efficiency relative to revenues over time, while explicitly accounting for structural and external (non-controllable) drivers of cost pressure.
 7. **Early Termination & Payment Issues Analysis** 
 Descriptive assessment of contract stability and payment irregularities across units and time using exposure-aware metrics.
-8. **Tenant Segmentation – Profession**  **Segmentation Performances (Profession)**
+8. **Tenant Segmentation – Profession**  9. **Segmentation Performances (Profession)**
 Analysis of how tenant profession relates to occupancy, revenue contribution, and observed operational risk across units.
-9. **Tenant Segmentation – Age** **Segmentation Performances (Age)***
+10. **Tenant Segmentation – Age**  11. **Segmentation Performances (Age)***
 Descriptive segmentation of tenants by age group to examine differences in occupancy patterns, revenue contribution, and stability.
-10. **Tenant Segmentation – Household Type** **Segmentation Performances (Household Type)***
+12. **Tenant Segmentation – Household Type**  13.**Segmentation Performances (Household Type)***
 Descriptive segmentation of tenants by household type to examine differences in occupancy patterns, revenue contribution, and stability.
-11. **COVID Impact Analysis**  
+14. **COVID Impact Analysis**  
 Comparison of revenues, occupancy, and taxation during COVID years (2020–2021) relative to a 2019 baseline.
 
 Additional exploratory pages were included to investigate tenant segmentation and risk-related indicators (early terminations, payment delays).
