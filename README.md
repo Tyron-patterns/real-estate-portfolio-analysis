@@ -29,8 +29,6 @@ The analysis covers multiple aspects of the portfolio performance over a long ti
 - Tenant segmentation (profession, age group, household type)
 - Pre-COVID vs during-COVID performance comparison
 
-The analysis operates within real-world business constraints, where outcomes are influenced by external factors such as regulation, taxation, and market conditions.
-
 ### Tasks & Analytical Structure
 
 The dashboard is structured around a set of analytical tasks:
