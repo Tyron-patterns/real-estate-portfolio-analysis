@@ -32,31 +32,45 @@ The analysis covers multiple aspects of the portfolio performance over a long ti
 ### Tasks & Analytical Structure
 
 The dashboard is structured around a set of analytical tasks:
+## 📊 Analytical Structure & Dashboard Pages
 
-1. **Executive Overview** (Executive Summary Repository)  
-High-level summary of portfolio performance (revenues, costs, profit, margins, occupancy, general trends over time).
+The report is organized from high-level outcomes to constraints, operational behavior, risk drivers, and external shocks.
+
+1. **Executive Overview**
+   - Portfolio snapshot: revenues, costs, profit, margins, occupancy, and overall trends.
+
 2. **Revenues & Profit Growth Dynamics**
-Exploratory and descriptive analysis of revenue and profit evolution over time, using complementary indicators (trend direction, end-to-start change, and volatility measures) to capture non-linear and uneven performance patterns rather than smooth growth.
-3. **Occupancy, Vacancy vs Profitability by City and Unit**
-Assessment of how occupancy and vacancy patterns relate to profit differences across units and locations, to support hypothesis that utilization alone does not fully explain profitability and highlight the role of structural and contextual factors.
-4. **Average Occupancy/Vacancy vs Profitability by City and Unit**
-Analysis of average occupancy and vacancy rates by city and unit, designed to smooth short-term and year-specific fluctuations, and to assess how structural utilization patterns relate to long-term profitability
-5. **Tenancy Behavior & Turnover Effects**
-Analysis of tenancy duration and tenant turnover at unit level, examining their association with profit and cost behavior and testing whether higher stability translates into improved economic performance.
-6. **Expenses Structure**
-Detailed examination of expense levels, variability, and efficiency in relation to revenues over time, explicitly accounting for operational drivers of cost pressure.
-7. **Taxation Structure**
-Parallel analysis focused on taxation, examining its impact as an external, non-controllable but structurally relevant cost driver.
-8. **Early Termination & Payment Issues Analysis** 
-Descriptive assessment of contract stability and payment irregularities across units and time using exposure-aware metrics.
-9. **Tenant Segmentation – Profession**  & (8.1) **Segmentation Performances & Risks (Profession)**
-Analysis of how tenant profession relates to occupancy, revenue contribution, stability and observed operational risk across units.
-10. **Tenant Segmentation – Age**  & (9.1) **Segmentation Performances & Risks (Age)**
-Descriptive segmentation of tenants by age group to examine differences in occupancy patterns, revenue contribution,stability and observed operational risk across units.
-11. **Tenant Segmentation – Household Type**  & (10.1)**Segmentation Performances & Risks (Household Type)***
-Descriptive segmentation of tenants by household type to examine differences in occupancy patterns, revenue contribution, stability and observed operational risk across units.
-12. **COVID Impact Analysis**  
-Comparison of revenues, occupancy, and taxation during COVID years (2020–2021) relative to a 2019 baseline.
+   - Revenue/profit evolution over time using multiple indicators (non-linear patterns, volatility-aware).
+
+3. **Expenses Structure (Operational Constraints)**
+   - Expenses by unit and over time; variability and efficiency relative to revenues.
+
+4. **Taxation Structure (Structural Constraints)**
+   - Taxes by unit and over time; structural differences across locations and regimes.
+
+5. **Occupancy & Vacancy vs Profitability**
+   - How utilization patterns relate to profit differences across cities and units.
+
+6. **Average Occupancy/Vacancy vs Profitability**
+   - Long-run utilization using averaged metrics to smooth short-term fluctuations.
+
+7. **Tenancy Behavior & Turnover Effects**
+   - Tenancy duration and turnover patterns and their association with profit/cost behavior.
+
+8. **Early Termination & Payment Issues**
+   - Contract stability and payment irregularities using exposure-aware metrics.
+
+9. **Tenant Segmentation – Profession** & (9.1) **Segmentation Performances & Risks (Profession)**
+   - Profession-based segmentation: utilization, revenue contribution, stability, and risk signals.
+
+10. **Tenant Segmentation – Age**  & (10.1)**Segmentation Performances & Risks (Age)***
+    - Age-group segmentation: utilization patterns, revenue contribution, and stability.
+
+11. **Tenant Segmentation – Household Type**  & (11.1)**Segmentation Performances & Risks (Household Type)***
+    - Household segmentation: utilization patterns, revenue contribution, and operational risk.
+
+12. **COVID Impact Analysis**
+    - 2020–2021 comparison vs 2019 baseline for revenues, occupancy, and taxation.
 
 ### Executive Summary
 A dedicated Executive Summary section is included to present the key outcomes of the analysis in a concise and decision-oriented format. It is designed to provide a clear overview of results and implications for a less technical audience.
