@@ -63,10 +63,10 @@ The report is organized from high-level outcomes to constraints, operational beh
 9. **Tenant Segmentation – Profession** & (9.1) **Segmentation Performances & Risks (Profession)**
    - Profession-based segmentation: utilization, revenue contribution, stability, and risk signals.
 
-10. **Tenant Segmentation – Age**  & (10.1)**Segmentation Performances & Risks (Age)***
+10. **Tenant Segmentation – Age**  & (10.1) **Segmentation Performances & Risks (Age)***
     - Age-group segmentation: utilization patterns, revenue contribution, and stability.
 
-11. **Tenant Segmentation – Household Type**  & (11.1)**Segmentation Performances & Risks (Household Type)***
+11. **Tenant Segmentation – Household Type**  & (11.1) **Segmentation Performances & Risks (Household Type)***
     - Household segmentation: utilization patterns, revenue contribution, and operational risk.
 
 12. **COVID Impact Analysis**
