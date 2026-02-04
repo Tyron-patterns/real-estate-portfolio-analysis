@@ -5,6 +5,7 @@ End-to-end analysis of a real residential real estate portfolio, originally trac
 The project focuses on understanding long-term performance, occupancy dynamics, tenant behavior, cost and tax structure, and the impact of COVID, using descriptive and exposure-aware metrics rather than causal claims. 
 
 **Privacy note**: All data used in this analysis have been anonymized and aggregated in accordance with basic data governance principles. No information allows for the identification of individual tenants or specific properties.
+**Note**: The dashboards included in this repository differ in style as the entire report has been restyled to make the project clearer. At the moment, following some technical issues, only a part of the dahsboards from this most recent version were available for upload. Nonetheless, the list of the pages is updated to the newest version
 
 ## Project Scope
 
@@ -35,23 +36,27 @@ The project reflects a **real-world business scenario**, where not all variables
 
 The dashboard is structured around a set of analytical tasks:
 
-1. **Executive Overview**  
+1. **Executive Overview** (Executive Summary Repository)  
 High-level summary of portfolio performance (revenues, costs, profit, margins, occupancy).
-2. **Revenues & Profit Growth analysis**  
-Overview of revenue and profit evolution using multiple growth indicators to reflect non-linear and uneven performance over time.
-3. **Occupation vs Profitability by City & Unit**  
-Assessment of how occupancy levels relate to profit distribution across units, including occupancy-adjusted profit.
-4. **Tenancy Behavior Analysis**  
-Exploration of average tenancy duration, tenant turnover, and their relationship with profit and costs.
-5. **Expenses, Taxation & Cost Structure**  
-Analysis of expenses and taxes by unit and over time, acknowledging external (non-controllable) drivers.
-6. **Early Termination & Payment Issues Analysis** 
+2. **Revenues & Profit Growth Dynamics**
+Exploratory and descriptive analysis of revenue and profit evolution over time, using complementary indicators (trend direction, end-to-start change, and volatility measures) to capture non-linear and uneven performance patterns rather than assuming smooth growth.
+3. **Occupancy, Vacancy & Profitability by City and Unit**
+Assessment of how occupancy and vacancy patterns relate to profit differences across units and locations, showing that utilization alone does not fully explain profitability and highlighting the role of structural and contextual factors.
+4. **Occupancy/Vacancy Average & Profitability by City and Unit**
+Similar To the previous point but applied on Occupancy/Vacancy Averages to 
+5. **Tenancy Behavior & Turnover Effects**
+Analysis of tenancy duration and tenant turnover at unit level, examining their association with profit and cost behavior and testing whether higher stability translates into improved economic performance.
+6. **Expenses, Taxation & Cost Structure**
+Detailed examination of expenses and taxation separately, analyzing their levels, variability, and efficiency relative to revenues over time, while explicitly accounting for structural and external (non-controllable) drivers of cost pressure.
+7. **Early Termination & Payment Issues Analysis** 
 Descriptive assessment of contract stability and payment irregularities across units and time using exposure-aware metrics.
-7. **Tenant Segmentation – Profession**  
+8. **Tenant Segmentation – Profession**  **Segmentation Performances (Profession)**
 Analysis of how tenant profession relates to occupancy, revenue contribution, and observed operational risk across units.
-8. **Tenant Segmentation – Age & Household**  
-Descriptive segmentation of tenants by age group and household type to examine differences in occupancy patterns, revenue contribution, and stability.
-9. **COVID Impact Analysis**  
+9. **Tenant Segmentation – Age** **Segmentation Performances (Age)***
+Descriptive segmentation of tenants by age group to examine differences in occupancy patterns, revenue contribution, and stability.
+10. **Tenant Segmentation – Household Type** **Segmentation Performances (Household Type)***
+Descriptive segmentation of tenants by household type to examine differences in occupancy patterns, revenue contribution, and stability.
+11. **COVID Impact Analysis**  
 Comparison of revenues, occupancy, and taxation during COVID years (2020–2021) relative to a 2019 baseline.
 
 Additional exploratory pages were included to investigate tenant segmentation and risk-related indicators (early terminations, payment delays).
