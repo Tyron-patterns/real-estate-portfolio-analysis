@@ -58,6 +58,9 @@ Descriptive segmentation of tenants by household type to examine differences in 
 12. **COVID Impact Analysis**  
 Comparison of revenues, occupancy, and taxation during COVID years (2020–2021) relative to a 2019 baseline.
 
+### Executive Summary
+A dedicated Executive Summary section is included to present the key outcomes of the analysis in a concise and decision-oriented format. It is designed to provide a clear overview of results and implications for a less technical audience.
+
 ### Methodology
 
 - Data was initially compiled and explored in Excel
