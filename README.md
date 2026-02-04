@@ -83,6 +83,9 @@ A dedicated Executive Summary section is included to present the key outcomes of
 - Measures were designed to be context-aware and, where appropriate, normalized to avoid misleading comparisons
 - Trends and relationships are evaluated visually and descriptively
 
+### Note: Time Coverage
+The business activity represented in this analysis begins in 2012, with an initial experimental phase up to 2014 and a more structured and stable operating phase starting around mid-2016.
+For this reason, different dashboards and metrics use different time spans and date filters: some analyses benefit from considering the full business history, while others focus on later periods to avoid distortion from early-stage dynamics.
 ### Tools & Technologies
 
 - Excel – initial data collection and exploratory analysis
