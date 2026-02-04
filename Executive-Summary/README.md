@@ -84,3 +84,7 @@ even if they tend to reduce short-term profitability. Lower initial expenses may
 
 - **During COVID period, trade-offs emerged between maintaining occupancy and preserving short-term profit**  
 Rental price reductions helped keep occupancy levels relatively high, but necessarily compressed margins. Conversely, prioritizing profit would have implied accepting higher vacancy and turnover. Both objectives could not be fully optimized at the same time under external demand shocks.
+
+### Note: Reference Comparison Matrix
+A compact comparison matrix is included as a numerical reference to support the conclusions presented above.
+The matrix provides a side-by-side view of selected key metrics by city and unit — specifically those that do not require further visual or exploratory analysis — allowing quick verification of relative performance.
