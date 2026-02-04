@@ -2,7 +2,7 @@
 
 ## TL;DR
 End-to-end analysis of a multi-unit residential real estate portfolio, originally tracked and explored in Excel, then validated with SQL and fully modeled in Power BI.
-The project focuses on understanding long-term performance, cost and tax structure, occupancy dynamics, tenant behavior, and the impact of COVID, using exposure-aware and normalized metrics to avoid misleading comparisons and over-interpretation of short-term effects. 
+The report focuses on understanding long-term performance, cost and tax structure, occupancy dynamics, tenant behavior, and the impact of COVID, using exposure-aware and normalized metrics to avoid misleading comparisons and over-interpretation of short-term effects. 
 
 **Privacy note**: All data used in this analysis have been anonymized and aggregated in accordance with basic data governance principles. No information allows for the identification of individual tenants or specific properties.
 
