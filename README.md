@@ -90,7 +90,7 @@ The written report will expand on:
 - Normalization choices
 - Analytical limitations
 - Interpretation framework
-- Key takeaways without overclaiming causality
+- Key takeaways
 
 ## Notes
 
