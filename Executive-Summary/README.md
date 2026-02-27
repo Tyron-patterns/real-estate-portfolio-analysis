@@ -24,10 +24,10 @@ At city level, higher turnover does not translate into improved profitability, i
 Matrix comparisons indicate similar expense costs across cities, while differences in tax burden materially affect net profitability, particularly for Fiumicino units, as these have an additional taxation burden represented by IMU for second houses. These structural effects help explain discrepancies once profits are normalized over occupancy.
 
 #### Dashboard Reference: 
-[Revenues & Profit Growth Dynamics](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/02_Revenues%20%26%20Profit%20Growth%20Dynamics.png)
-[Occupancy & Vacancy vs Profitability](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/05_Occupancy%20%26%20Vacancy%20vs%20Profitability.png)
-[Average Occupancy & Vacancy vs Profitability](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/06_Average%20Occupancy%20%26%20Vacancy%20vs%20Profitability.png)
-[Expenses Structure (Operation Constraints)](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/03_Expenses%20Structure%20(Operation%20Constraints).png)
+[Revenues & Profit Growth Dynamics](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/02_Revenues%20%26%20Profit%20Growth%20Dynamics.png)  
+[Occupancy & Vacancy vs Profitability](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/05_Occupancy%20%26%20Vacancy%20vs%20Profitability.png)  
+[Average Occupancy & Vacancy vs Profitability](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/06_Average%20Occupancy%20%26%20Vacancy%20vs%20Profitability.png)  
+[Expenses Structure (Operation Constraints)](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/03_Expenses%20Structure%20(Operation%20Constraints).png)  
 [Taxation Structure (Structural Constraints)](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/04_Taxation%20Structure%20(Structural%20Constraints).png)
 
 
@@ -48,9 +48,9 @@ With only one tenant (no turnovers and no vacancy) throughout the observed perio
 A more in-depth analysis of missing and delayed payments and their associated risks was conducted using tenant segmentation.
 
 #### Dashboard Reference:
-[Occupancy & Vacancy vs Profitability](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/05_Occupancy%20%26%20Vacancy%20vs%20Profitability.png)
-[Average Occupancy & Vacancy vs Profitability](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/06_Average%20Occupancy%20%26%20Vacancy%20vs%20Profitability.png)
-[Tenancy Behaviors & Turnovers Dynamics](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/07_Tenancy%20Beahaviors%20%26%20Turnovers%20Dynamics.png)
+[Occupancy & Vacancy vs Profitability](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/05_Occupancy%20%26%20Vacancy%20vs%20Profitability.png)  
+[Average Occupancy & Vacancy vs Profitability](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/06_Average%20Occupancy%20%26%20Vacancy%20vs%20Profitability.png)  
+[Tenancy Behaviors & Turnovers Dynamics](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/07_Tenancy%20Beahaviors%20%26%20Turnovers%20Dynamics.png)  
 [Early Terminations & Payment Issues Analysis](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/08_Early%20Terminations%20%26%20Payment%20Issues%20Analysis.png)
 
 ## 3. What structurally limits profitability?  
@@ -66,9 +66,9 @@ The data show that informed choices regarding taxation regimes can improve profi
 It is also worth noting that taxation is proportional to occupancy, reinforcing its role as an unavoidable constraint on profitability
 
 #### Dashboard Reference:
-[Expenses Structure (Operation Constraints)](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/03_Expenses%20Structure%20(Operation%20Constraints).png)
-[Taxation Structure (Structural Constraints)](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/04_Taxation%20Structure%20(Structural%20Constraints).png)
-[Occupancy & Vacancy vs Profitability](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/05_Occupancy%20%26%20Vacancy%20vs%20Profitability.png)
+[Expenses Structure (Operation Constraints)](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/03_Expenses%20Structure%20(Operation%20Constraints).png)  
+[Taxation Structure (Structural Constraints)](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/04_Taxation%20Structure%20(Structural%20Constraints).png)  
+[Occupancy & Vacancy vs Profitability](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/05_Occupancy%20%26%20Vacancy%20vs%20Profitability.png)  
 
 
 ## 4. What operational risks exist?
@@ -84,13 +84,13 @@ In any case, said measures should not be used blindly, as they come at a cost. I
 together with the fact new tenants per se require background assesment, which is expensive both in money and time and can introduce risks of payment issues. 
 
 #### Dashboard Reference:
-[Tenancy Behaviors & Turnovers Dynamics](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/07_Tenancy%20Beahaviors%20%26%20Turnovers%20Dynamics.png)
-[Early Terminations & Payment Issues Analysis](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/08_Early%20Terminations%20%26%20Payment%20Issues%20Analysis.png)
-[Tenant Segmentation - Profession](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/09_Tenant%20Segmentation%20-%20Profession.png)
-[Segmentation Performances & Risks - Profession](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/10_Segmentation%20Performances%20%26%20Risks%20-%20Profession.png)
-[Tenant Segmentation - Age](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/11_Tenant%20Segmentation%20-%20Age.png)
-[Segmentation Performances & Risks - Age](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/12_Segmentation%20Performances%20%26%20Risks%20-%20Age.png)
-[Tenant Segmentation - Household Type](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/13_Tenant%20Segmentation%20-%20Household%20Type.png)
+[Tenancy Behaviors & Turnovers Dynamics](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/07_Tenancy%20Beahaviors%20%26%20Turnovers%20Dynamics.png)  
+[Early Terminations & Payment Issues Analysis](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/08_Early%20Terminations%20%26%20Payment%20Issues%20Analysis.png)  
+[Tenant Segmentation - Profession](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/09_Tenant%20Segmentation%20-%20Profession.png)  
+[Segmentation Performances & Risks - Profession](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/10_Segmentation%20Performances%20%26%20Risks%20-%20Profession.png)  
+[Tenant Segmentation - Age](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/11_Tenant%20Segmentation%20-%20Age.png)  
+[Segmentation Performances & Risks - Age](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/12_Segmentation%20Performances%20%26%20Risks%20-%20Age.png)  
+[Tenant Segmentation - Household Type](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/13_Tenant%20Segmentation%20-%20Household%20Type.png)  
 [Segmentation Performances & Risks - Household Type](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/14_Segmentation%20Performances%20%26%20Risks%20-%20Household%20Type.png)
 
 
@@ -126,7 +126,7 @@ A compact comparison matrix is included as a numerical reference to support the 
 The matrix provides a side-by-side view of selected key metrics by city and unit — specifically those that do not require further visual or exploratory analysis — allowing quick verification of relative performance.
 
 #### Dashboard Referece:
-[Revenues & Profit Growth Dynamics](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/02_Revenues%20%26%20Profit%20Growth%20Dynamics.png)
-[Taxation Structure (Structural Constraints)](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/04_Taxation%20Structure%20(Structural%20Constraints).png)
-[Occupancy & Vacancy vs Profitability](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/05_Occupancy%20%26%20Vacancy%20vs%20Profitability.png)
+[Revenues & Profit Growth Dynamics](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/02_Revenues%20%26%20Profit%20Growth%20Dynamics.png)  
+[Taxation Structure (Structural Constraints)](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/04_Taxation%20Structure%20(Structural%20Constraints).png)  
+[Occupancy & Vacancy vs Profitability](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/05_Occupancy%20%26%20Vacancy%20vs%20Profitability.png)  
 [COVID Impact Analysis](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/15_COVID%20Impact%20Analysis.png)
