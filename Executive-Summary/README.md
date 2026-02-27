@@ -4,13 +4,14 @@
   <img width="612" height="347" alt="Screenshot 2026-02-27 at 15 09 12" src="https://github.com/user-attachments/assets/d1346ddf-79f9-47b0-bfc8-0064ccb244dc" width="900">
 </p>
 
-- **Portfolio profitability is driven by a combination of occupancy, tenancy stability,
- and structural constraints.**
-- **FCO Su showed the most volatile pattern due to payment issues and long vacancy; FCO Giu has been the most consistent source of income (no vacancy); Rome Units have been reliable profit generators despite high turnover and vacancy volumes**
-- **While Vacancy appears to be the strongest limitation factor to profit (assuming stable revenues), Revenues (rental prices) are heavily affected by taxation**
+- Profitability is primarily driven by occupancy stability rather than rental price levels alone.
+- Vacancy duration — not turnover volume — represents the main source of volatility.
+- Structural taxation imposes a margin ceiling, particularly in Fiumicino units.
+- Rome units remained reliable profit generators despite higher turnover.
+- Targeted tenant screening and adaptive pricing strengthened resilience during COVID.
+- Initial capital investments improve long-term occupancy and stability, despite short-term profit compression.
 
 [KPI Comparison Matrix](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Executive-Summary/Comparison%20Matrix.png)
-
 
 
 ## 1. Where does profit actually come from in the portfolio?
@@ -56,6 +57,7 @@ A more in-depth analysis of missing and delayed payments and their associated ri
 [Average Occupancy & Vacancy vs Profitability](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/06_Average%20Occupancy%20%26%20Vacancy%20vs%20Profitability.png)  
 [Tenancy Behaviors & Turnovers Dynamics](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/07_Tenancy%20Beahaviors%20%26%20Turnovers%20Dynamics.png)  
 [Early Terminations & Payment Issues Analysis](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/08_Early%20Terminations%20%26%20Payment%20Issues%20Analysis.png)
+
 
 ## 3. What structurally limits profitability?  
 
@@ -113,6 +115,7 @@ This is probably associated with the presence of longer tenancies and tenant scr
 
 #### Dashboard Reference:
 [COVID Impact Analysis](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/15_COVID%20Impact%20Analysis.png)
+
 
 ## 6. What trade-offs cannot be optimized simultaneously?
 
