@@ -1,7 +1,7 @@
 # 📈 Executive Summary 
 
 <p align="center">
-  <img width="600" height="350" alt="Screenshot 2026-02-27 at 15 09 12" src="https://github.com/user-attachments/assets/d1346ddf-79f9-47b0-bfc8-0064ccb244dc" width="900">
+  <img width="612" height="347" alt="Screenshot 2026-02-27 at 15 09 12" src="https://github.com/user-attachments/assets/d1346ddf-79f9-47b0-bfc8-0064ccb244dc" width="900">
 </p>
 <p align="center">
   <img width="900" height="450" src="https://raw.githubusercontent.com/Tyron-patterns/real-estate-portfolio-analysis/main/Executive-Summary/Comparison%20Matrix.png" />
