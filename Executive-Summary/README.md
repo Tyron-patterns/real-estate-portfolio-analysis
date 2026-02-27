@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tyron-patterns/real-estate-portfolio-analysis/main/Dashboards/01_Executive%20Dashboard.png" width="48%" />
-  <img width="700" height="400" src="https://raw.githubusercontent.com/Tyron-patterns/real-estate-portfolio-analysis/main/Executive-Summary/Comparison%20Matrix.png" />
+  <img width="800" height="400" src="https://raw.githubusercontent.com/Tyron-patterns/real-estate-portfolio-analysis/main/Executive-Summary/Comparison%20Matrix.png" />
 </p>
 
 **The analaysis was conducted both at city/location and unit level to differentiate effects between said categories.**
