@@ -12,6 +12,7 @@
 
 [KPI Comparison Matrix](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Executive-Summary/Comparison%20Matrix.png)
 
+### In the following section a clear and extensive description of every business requirement with links to the related dashboard/analysis
 
 ## 1. Where does profit actually come from in the portfolio?
 
