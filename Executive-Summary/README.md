@@ -10,12 +10,11 @@
 - Risk exposure is uneven across units and can be mitigated through targeted tenant screening, structured deposit policies and selective rental insurance.
 - Adaptive pricing strengthened portfolio resilience during COVID.
 
+**NOTE**: For a structured breakdown of each business question, with links to the related dashboards and analyses, see the following section.
 #### Dashboard Reference - KPI Table:
 [KPI Comparison Matrix](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Executive-Summary/Comparison%20Matrix.png)
 
 ---
-
-#### The following section provides a structured breakdown of each business question, with links to the related dashboards and analyses.
 
 ## 1. Where does profit actually come from in the portfolio?
 
