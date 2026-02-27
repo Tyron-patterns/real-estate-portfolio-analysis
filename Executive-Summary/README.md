@@ -1,6 +1,8 @@
 # 📈 Executive Summary 
 <img width="612" height="347" alt="Screenshot 2026-02-27 at 15 09 12" src="https://github.com/user-attachments/assets/d1346ddf-79f9-47b0-bfc8-0064ccb244dc" />  
-
+<p align="center">
+  <img src="images/Executive_Dashboard.png" width="900">
+</p>
 
 **The analaysis was conducted both at city/location and unit level to differentiate effects between said categories.**
 
