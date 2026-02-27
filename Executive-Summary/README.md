@@ -1,5 +1,5 @@
 # 📈 Executive Summary 
-
+![Executive Dashboard](Executive_Dashboard.png)
 **The analaysis was conducted both at city/location and unit level to differentiate effects between said categories.**
 
 ## 1. Where does profit actually come from in the portfolio?
