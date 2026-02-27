@@ -1,10 +1,11 @@
 # 📈 Executive Summary 
-![Executive Dashboard](Executive_Dashboard.png)
+<img width="612" height="347" alt="Screenshot 2026-02-27 at 15 09 12" src="https://github.com/user-attachments/assets/d1346ddf-79f9-47b0-bfc8-0064ccb244dc" />
 **The analaysis was conducted both at city/location and unit level to differentiate effects between said categories.**
 
 ## 1. Where does profit actually come from in the portfolio?
 
-**Portfolio profitability is driven by a combination of occupancy, tenancy stability, and structural constraints, rather than by a single dominant factor.**    
+**Portfolio profitability is driven by a combination of occupancy, tenancy stability,
+ and structural constraints, rather than by a single dominant factor.**    
 
 - **Occupancy/Vacancy are the strongest and most consistent drivers of profit across both cities and individual units**.  
 Matrix-level comparisons show that higher occupancy periods align with higher profit. At city level, Rome outperforms Fiumicino primarily due to higher utilization, while at unit level, properties with comparable occupancy volumes generate similar profit regardless of rental prices.
