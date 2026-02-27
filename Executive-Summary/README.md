@@ -18,7 +18,7 @@ At city level, higher turnover does not translate into improved profitability, i
 - **Cost and tax structures act as constraining factors rather than primary drivers**.  
 Matrix comparisons indicate similar expense costs across cities, while differences in tax burden materially affect net profitability, particularly for Fiumicino units, as these have an additional taxation burden represented by IMU for second houses. These structural effects help explain discrepancies once profits are normalized over occupancy.
 
-https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/02_Revenues%20%26%20Profit%20Growth%20Dynamics.png
+[Revenues & Profit Growth Dynamics](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/02_Revenues%20%26%20Profit%20Growth%20Dynamics.png)
 
 ## 2. Which units / locations are reliable vs volatile profit generators?
 
