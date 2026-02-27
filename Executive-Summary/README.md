@@ -4,6 +4,10 @@
   <img src="images/Executive_Dashboard.png" width="900">
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d1346ddf-79f9-47b0-bfc8-0064ccb244dc" width="900">
+</p>
+
 **The analaysis was conducted both at city/location and unit level to differentiate effects between said categories.**
 
 ## 1. Where does profit actually come from in the portfolio?
