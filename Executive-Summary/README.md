@@ -11,7 +11,7 @@
 - Adaptive pricing strengthened portfolio resilience during COVID.
 
 ***Detailed Analysis:***
-For a structured breakdown of each business question, with links to related dashboards and analyses, see the following section.***: For a structured breakdown of each business question, with links to the related dashboards and analyses, see the following section.  
+For a structured breakdown of each business question, with links to related dashboards and analyses, see the following section.
 
 #### Dashboard Reference - KPI Table:
 [KPI Comparison Matrix](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Executive-Summary/Comparison%20Matrix.png)
