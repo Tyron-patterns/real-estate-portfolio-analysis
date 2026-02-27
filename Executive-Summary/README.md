@@ -1,5 +1,5 @@
 # 📈 Executive Summary 
-<img width="612" height="347" alt="Screenshot 2026-02-27 at 15 09 12" src="https://github.com/user-attachments/assets/d1346ddf-79f9-47b0-bfc8-0064ccb244dc" />
+<img width="612" height="347" alt="Screenshot 2026-02-27 at 15 09 12" src="https://github.com/user-attachments/assets/d1346ddf-79f9-47b0-bfc8-0064ccb244dc" />  
 **The analaysis was conducted both at city/location and unit level to differentiate effects between said categories.**
 
 ## 1. Where does profit actually come from in the portfolio?
