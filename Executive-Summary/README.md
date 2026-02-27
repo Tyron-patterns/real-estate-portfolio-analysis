@@ -5,7 +5,7 @@
 </p>
 
 - **Portfolio profitability is driven by a combination of occupancy, tenancy stability,
- and structural constraints, rather than by a single dominant factor.** 
+ and structural constraints.** 
 
 [KPI Comparison Matrix](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Executive-Summary/Comparison%20Matrix.png)
 
