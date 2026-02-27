@@ -5,7 +5,9 @@
 </p>
 
 - **Portfolio profitability is driven by a combination of occupancy, tenancy stability,
- and structural constraints.** 
+ and structural constraints.**
+- **FCO Su showed the most volatile pattern due to payment issues and long vacancy; FCO Giu has been the most consistent source of income (no vacancy); Rome Units have been reliable profit generators despite high turnover and vacancy volumes**
+- **While Vacancy appears to be the strongest limitation factor to profit (assuming stable revenues), Revenues (rental prices) are heavily affected by taxation**
 
 [KPI Comparison Matrix](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Executive-Summary/Comparison%20Matrix.png)
 
