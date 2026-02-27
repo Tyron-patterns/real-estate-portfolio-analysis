@@ -3,10 +3,9 @@
 <p align="center">
   <img width="612" height="347" alt="Screenshot 2026-02-27 at 15 09 12" src="https://github.com/user-attachments/assets/d1346ddf-79f9-47b0-bfc8-0064ccb244dc" width="900">
 </p>
-
 <p align="center">
-  <img src="(https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Dashboards/01_Executive%20Dashboard.png)" width="48%">
-  <img src=(https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Executive-Summary/Comparison%20Matrix.png) width="48%">
+  <img src="https://raw.githubusercontent.com/Tyron-patterns/real-estate-portfolio-analysis/main/Dashboards/01_Executive%20Dashboard.png" width="48%" />
+  <img src="https://raw.githubusercontent.com/Tyron-patterns/real-estate-portfolio-analysis/main/Executive-Summary/Comparison%20Matrix.png" width="48%" />
 </p>
 
 **The analaysis was conducted both at city/location and unit level to differentiate effects between said categories.**
