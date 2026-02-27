@@ -15,7 +15,7 @@
 
 ---
 
-### The following section provides a structured breakdown of each business question, with links to the related dashboards and analyses.
+#### The following section provides a structured breakdown of each business question, with links to the related dashboards and analyses.
 
 ## 1. Where does profit actually come from in the portfolio?
 
