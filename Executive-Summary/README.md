@@ -4,6 +4,7 @@
   <img width="612" height="347" alt="Screenshot 2026-02-27 at 15 09 12" src="https://github.com/user-attachments/assets/d1346ddf-79f9-47b0-bfc8-0064ccb244dc" width="900">
 </p>
 
+### Insights:
 - Profitability is primarily driven by Occupancy stability; Vacancy duration — not turnover volume — is the main source of income volatility.
 - Structural taxation imposes a hard margin ceiling, particularly in Fiumicino units.
 - Risk exposure is uneven across units and can be mitigated through targeted tenant screening, structured deposit policies and selective rental insurance.
