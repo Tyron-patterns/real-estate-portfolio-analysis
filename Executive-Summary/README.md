@@ -10,6 +10,7 @@
 - Risk exposure is uneven across units and can be mitigated through targeted tenant screening, structured deposit policies and selective rental insurance.
 - Adaptive pricing strengthened portfolio resilience during COVID.
 
+#### Dashboard Reference - KPI Table:
 [KPI Comparison Matrix](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Executive-Summary/Comparison%20Matrix.png)
 
 ---
