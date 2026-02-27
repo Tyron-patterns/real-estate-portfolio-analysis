@@ -5,11 +5,12 @@
 </p>
 
 - Profitability is primarily driven by occupancy stability rather than rental price levels alone.
-- Vacancy duration — not turnover volume — represents the main source of volatility.
-- Structural taxation imposes a margin ceiling, particularly in Fiumicino units.
-- Rome units remained reliable profit generators despite higher turnover.
-- Targeted tenant screening and adaptive pricing strengthened resilience during COVID.
-- Initial capital investments improve long-term occupancy and stability, despite short-term profit compression.
+- Vacancy duration — not turnover volume — is the main source of income volatility.
+- Structural taxation imposes a hard margin ceiling, particularly in Fiumicino units.
+- Rome units remained reliable profit generators despite higher turnover, while volatility within Fiumicino was concentrated in one unit due to payment disruptions and extended vacancies.
+- Targeted tenant screening, structured deposit policies, and selective rental insurance mitigate payment risk and early terminations.
+- Adaptive pricing and tenant profiling strengthened resilience during COVID, limiting losses despite reduced demand.
+- Initial capital investments improve long-term occupancy stability, even at the expense of short-term profitability.
 
 [KPI Comparison Matrix](https://github.com/Tyron-patterns/real-estate-portfolio-analysis/blob/main/Executive-Summary/Comparison%20Matrix.png)
 
